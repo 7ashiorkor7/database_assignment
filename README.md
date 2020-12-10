@@ -1,2 +1,2 @@
 # database_assignment
-Repository for D.1.2 - Databases
+A Database assignment given during the Azubi Africa Graduate Training Programme. This assignment covered SQL
